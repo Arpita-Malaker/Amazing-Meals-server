@@ -1,0 +1,170 @@
+
+ [
+      {
+        "id":1,
+        "picture": "https://i.ibb.co/gj5NBJQ/smiling-chef-cooking-food-restaurant-kitchen-smiling-chef-cooking-food-restaurant-kitchen-african-ma.jpg",
+        "name": "Chef John Doe",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 10000,
+        "rating": 4.8,
+        "recipe1Name":"Spaghetti Carbonara",
+        "ingredients1": "1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+        "instructions1":"Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+   
+
+        "recipe2Name":"Chicken Fajitas",
+       
+        "ingredients2":"1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+
+       "instructions2": "Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+        
+       "recipe3Name": "Banana Bread",
+      "ingredients3": "2 cups all-purpose flour,1 teaspoon baking soda,1/4 teaspoon salt,1/2 cup unsalted butter, softened,3/4 cup brown sugar,2 large eggs,3 ripe bananas, mashed, 1/2 cup chopped walnuts (optional)",
+        "instructions3": 
+          "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.,In a medium bowl, whisk together flour, baking soda, and salt.,In a large mixing bowl, cream together butter and brown sugar until light and fluffy.,Beat in eggs, one at a time, then stir in mashed bananas.,Gradually mix in dry ingredients until just blended.,Fold in chopped walnuts (if using)."
+        
+
+      },
+      {
+        "id":2,
+        "picture": "https://i.ibb.co/vZz5T6r/images.jpg",
+        "name": "Chef Jane Smith",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 8000,
+        "rating": 4.5,
+        "recipe1Name":"Spaghetti Carbonara",
+        "ingredients1": "1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+        "instructions1":"Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+   
+
+        "recipe2Name":"Chicken Fajitas",
+       
+        "ingredients2":"1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+        
+        "instructions2": "Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+        
+        "recipe3Name": "Banana Bread",
+        
+        "ingredients3": "2 cups all-purpose flour,1 teaspoon baking soda,1/4 teaspoon salt,1/2 cup unsalted butter, softened,3/4 cup brown sugar,2 large eggs,3 ripe bananas, mashed, 1/2 cup chopped walnuts (optional)",
+        
+        "instructions3": 
+          "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.,In a medium bowl, whisk together flour, baking soda, and salt.,In a large mixing bowl, cream together butter and brown sugar until light and fluffy.,Beat in eggs, one at a time, then stir in mashed bananas.,Gradually mix in dry ingredients until just blended.,Fold in chopped walnuts (if using)."
+        
+
+       
+      
+
+      },
+      {
+        
+        "id":3,
+        "picture": "https://i.ibb.co/hRG8npL/download.jpg",
+        "name": "Chef Tom Johnson",
+        "years_of_experience": 15,
+        "num_recipes": 70,
+        "likes": 12000,
+        
+        "rating": 4.9,
+        "recipe1Name":"Spaghetti Carbonara",
+        "ingredients1": "1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+        "instructions1":"Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+   
+       "recipe2Name":"Chicken Fajitas",
+       "ingredients2":"1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+       "instructions2": "Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+        
+        "recipe3Name": "Banana Bread",
+        "ingredients3": "2 cups all-purpose flour,1 teaspoon baking soda,1/4 teaspoon salt,1/2 cup unsalted butter, softened,3/4 cup brown sugar,2 large eggs,3 ripe bananas, mashed, 1/2 cup chopped walnuts (optional)",
+        "instructions3": 
+        "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.,In a medium bowl, whisk together flour, baking soda, and salt.,In a large mixing bowl, cream together butter and brown sugar until light and fluffy.,Beat in eggs, one at a time, then stir in mashed bananas.,Gradually mix in dry ingredients until just blended.,Fold in chopped walnuts (if using)."
+        
+        
+
+      },
+      {
+        "id":4,
+        "picture": "https://i.ibb.co/VMshq8T/P3-OLGJ1-copy-1.png",
+        "name": "Chef Maria Garcia",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 9000,
+        "rating": 4.7,
+        
+        "recipe1Name":"Spaghetti Carbonara",
+        "ingredients1": "1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+        "instructions1":"Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+   
+        "recipe2Name":"Chicken Fajitas",
+        "ingredients2":"1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+       "instructions2": "Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+        
+       "recipe3Name": "Banana Bread",
+       "ingredients3": "2 cups all-purpose flour,1 teaspoon baking soda,1/4 teaspoon salt,1/2 cup unsalted butter, softened,3/4 cup brown sugar,2 large eggs,3 ripe bananas, mashed, 1/2 cup chopped walnuts (optional)",
+      "instructions3": "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.,In a medium bowl, whisk together flour, baking soda, and salt.,In a large mixing bowl, cream together butter and brown sugar until light and fluffy.,Beat in eggs, one at a time, then stir in mashed bananas.,Gradually mix in dry ingredients until just blended.,Fold in chopped walnuts (if using)."
+        
+
+      },
+      {
+        "id":5,
+        "picture": "https://i.ibb.co/X28tM1B/Catherine-ann-cora-courtesyof-Catherine-Ann-Cora-0.jpg",
+        "name": "Chef David Lee",
+        "years_of_experience": 6,
+        "num_recipes": 30,
+        "likes": 5000,
+        "rating": 4.3,
+        
+        "recipe1Name":"Spaghetti Carbonara",
+        "ingredients1": "1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+        "instructions1":"Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+   
+
+        "recipe2Name":"Chicken Fajitas",
+       
+        "ingredients2":"1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+
+
+        "instructions2": "Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately."
+        
+        ,
+        "recipe3Name": "Banana Bread",
+        "ingredients3": "2 cups all-purpose flour,1 teaspoon baking soda,1/4 teaspoon salt,1/2 cup unsalted butter, softened,3/4 cup brown sugar,2 large eggs,3 ripe bananas, mashed, 1/2 cup chopped walnuts (optional)"
+        ,
+        "instructions3": 
+          "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.,In a medium bowl, whisk together flour, baking soda, and salt.,In a large mixing bowl, cream together butter and brown sugar until light and fluffy.,Beat in eggs, one at a time, then stir in mashed bananas.,Gradually mix in dry ingredients until just blended.,Fold in chopped walnuts (if using)."
+        
+
+      },
+      {
+        "id":6,
+        "picture": "https://i.ibb.co/Gvykwmw/chef-mike-monahan-2017-3-2-scaled-380x464x0x0x380x362x1649971252.jpg",
+        "name": "Chef Sarah Kim",
+        "years_of_experience": 4,
+        "num_recipes": 20,
+        "likes": 3000,
+        "rating": 4.1,
+        "recipe1Name":"Spaghetti Carbonara",
+        "ingredients1": "1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+        "instructions1":"Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately.",
+   
+
+        "recipe2Name":"Chicken Fajitas",
+       
+        "ingredients2":"1 pound spaghetti,6 slices bacon, chopped,4 cloves garlic, minced, 4 large eggs,1 cup grated Parmesan cheese,salt and black pepper to taste" ,
+
+
+        "instructions2": "Cook spaghetti according to package directions.Cook bacon in a large skillet over medium heat until crispy Remove with a slotted spoon and set aside, Add garlic to the bacon grease and cook until fragrant, about 1 minute,In a small bowl, beat eggs and Parmesan cheese together,Drain spaghetti and add it to the skillet. Remove from heat,Pour egg mixture over spaghetti and stir until coated. Add bacon and toss to combine.Season with salt and black pepper to taste. Serve immediately."
+        
+        ,
+        "recipe3Name": "Banana Bread",
+        "ingredients3": "2 cups all-purpose flour,1 teaspoon baking soda,1/4 teaspoon salt,1/2 cup unsalted butter, softened,3/4 cup brown sugar,2 large eggs,3 ripe bananas, mashed, 1/2 cup chopped walnuts (optional)"
+        ,
+        "instructions3": 
+          "Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.,In a medium bowl, whisk together flour, baking soda, and salt.,In a large mixing bowl, cream together butter and brown sugar until light and fluffy.,Beat in eggs, one at a time, then stir in mashed bananas.,Gradually mix in dry ingredients until just blended.,Fold in chopped walnuts (if using)."
+        
+
+      }
+    ]
+  
+  
